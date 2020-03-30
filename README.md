@@ -1,2 +1,3 @@
 # AWS-management-Learning
-Useing AWS for Deep Learning
+Using AWS for Deep Learning
+The record
